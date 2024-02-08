@@ -1,0 +1,28 @@
+nav {
+  padding: 2px;
+  text-align: center;
+  background-color: #2014cecd;
+  color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Ajoute une ombre plus douce */
+  border-radius: 12px; /* Arrondit les coins */
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s ease; /* Ajoute une transition douce pour le changement de couleur au survol */
+}
+
+nav a:hover {
+  color: #f8f9fa; /* Change la couleur au survol */
+}
+h1 { color: #47d0b255; font-family: 'Lobster', cursive; font-size: 36px; font-weight: normal; line-height: 48px; margin: 0 0 18px; text-shadow: 1px 0 0 #fff; }
+
+h2 { color: #2CA4B0; font-family: 'Oleo Script', cursive; font-size: 24px; font-weight: normal; line-height: 32px; margin: 0 0 18px; text-shadow: 1px 0 0 #fff; }
+
+p { color: #333; font-family: 'Original Surfer', cursive; font-size: 16px; line-height: 28px; margin: 0 0 24px; }
+
+a { color: #d04764; font-family: 'Original Surfer', cursive; }
+
+a:hover { text-decoration: underline }
+
