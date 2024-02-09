@@ -162,6 +162,5 @@ session_start();
         </div>
     </div>
 </main>
-    <?php require __DIR__ . "/partials/_footer.php"; ?>
 
 <?php require __DIR__ . "/partials/_foot.php"; ?>
